@@ -8,7 +8,7 @@
 </table>
 
 <a href="https://eagle-holmes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio" /></a>
-<a href="https://discord.gg/HtxAAUV7j7"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="discord" /></a>
+<a href="https://discord.gg/RWrRNCkHJb"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="discord" /></a>
 <a href="mailto:contact@holmescodelab.dev"><img src="https://img.shields.io/badge/Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
 
 </div>
