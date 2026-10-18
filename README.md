@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-<a href="https://eagle-holmes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio" /></a>
+<a href="http://cypher-byte.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio" /></a>
 <a href="https://discord.gg/RWrRNCkHJb"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="discord" /></a>
 <a href="mailto:contact@holmescodelab.dev"><img src="https://img.shields.io/badge/Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
 
@@ -72,7 +72,7 @@ A modular Discord bot core (moderation, economy, tickets, AI chat) used to spin 
 Custom-built, high-performance websites delivered end-to-end for clients — design, deployment, and hosting.<br/><br/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/><br/><br/>
 <b>Achievement:</b> Multiple sites shipped and live for real clients through Holmes CodeLab<br/><br/>
-<a href="https://eagle-holmes.netlify.app/">View live</a>
+<a href="http://cypher-byte.pages.dev/">View live</a>
 </td>
 <td width="34%" valign="top" align="center">
 <b>AI-Assisted Automation Tools</b><br/>
@@ -108,8 +108,8 @@ Scripts and small services combining Python, APIs, and AI models to automate rep
 
 <br/><br/>
 
-<a href="https://eagle-holmes.netlify.app/">
-  <img src="https://eagle-holmes.netlify.app/status/filled/online.svg" alt="Online status — Holmes CodeLab" height="28"/>
+<a href="http://cypher-byte.pages.dev/">
+  <img src="http://cypher-byte.pages.dev/status/filled/idle.svg" alt="Online status — Holmes CodeLab" height="28"/>
 </a>
 <br/><br/>
 <a href="https://eagle-holmes.netlify.app/"><b>Mr Holmes — Holmes CodeLab</b></a><br/>
