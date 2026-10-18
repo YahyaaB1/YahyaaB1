@@ -112,7 +112,7 @@ Scripts and small services combining Python, APIs, and AI models to automate rep
   <img src="http://cypher-byte.pages.dev/status/filled/idle.svg" alt="Online status — Holmes CodeLab" height="28"/>
 </a>
 <br/><br/>
-<a href="https://eagle-holmes.netlify.app/"><b>Mr Holmes — Holmes CodeLab</b></a><br/>
+<a href="http://cypher-byte.pages.dev/"><b>Mr Holmes — Holmes CodeLab</b></a><br/>
 <sub>Live status, badges & connections on my Holmes CodeLab profile</sub>
 
 </div>
